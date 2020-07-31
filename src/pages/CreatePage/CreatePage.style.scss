@@ -1,0 +1,13 @@
+.createPage {
+  display: flex;
+  justify-content: center;
+  position: relative;
+
+  .form {
+    z-index: 1;
+    position: absolute;
+    top: 320px;
+    display: flex;
+    justify-content: center;
+  }
+}
